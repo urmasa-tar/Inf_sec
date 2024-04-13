@@ -24,6 +24,8 @@
 <h1>Offensice Security Base</h1>
 
 <h4>Work with machines</h4>
+
+<h6>GoBuster</h6>
 <ul>
     <li>To skane web page for admins page<code>gobuster -u http://fakebank.com -w wordlist.txt dir</code></li>
     <li>More info with <code>gobuster --help</code></li>
